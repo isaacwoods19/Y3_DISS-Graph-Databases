@@ -1,5 +1,5 @@
 # Y3_DISS-Graph-Databases
-My third year dissertation project that uses graph databases to create an educational application.
+My third year dissertation project that uses graph databases to create an educational application. Coded in Java.
 
 For my dissertation in my third year, I chose to focus on graph databases. This involved me researching this area, and then creating an application related to it as well as a detailed report on my findings work.
 
