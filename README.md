@@ -11,12 +11,10 @@ The application also allowed the user to learn the graph database querying langu
 
 Overall this project took a lot of time and effort, but taught me a lot about databases - both graph and conventional. It took all of the academic year from October 2020 to June 2021. I recieved a 1st overall for the project.
 
-<img src="Screenshots/image1.png" height="60" width="60" >
-
-![Screenshot](Screenshots/image1.png)
-![Screenshot](Screenshots/image2.png)
-![Screenshot](Screenshots/image3.png)
-![Screenshot](Screenshots/image4.png)
-![Screenshot](Screenshots/image5.png)
-![Screenshot](Screenshots/image6.png)
-![Screenshot](Screenshots/image7.png)
+<img src="Screenshots/image1.png" height="250" width="250" >
+<img src="Screenshots/image2.png" height="250" width="250" >
+<img src="Screenshots/image3.png" height="250" width="250" >
+<img src="Screenshots/image4.png" height="250" width="250" >
+<img src="Screenshots/image5.png" height="250" width="250" >
+<img src="Screenshots/image6.png" height="250" width="250" >
+<img src="Screenshots/image7.png" height="250" width="250" >
