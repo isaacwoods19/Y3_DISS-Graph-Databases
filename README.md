@@ -16,5 +16,5 @@ Overall this project took a lot of time and effort, but taught me a lot about da
 <img src="Screenshots/image3.png" height="300" width="500" >
 <img src="Screenshots/image4.png" height="300" width="500" >
 <img src="Screenshots/image5.png" height="300" width="500" >
-<img src="Screenshots/image6.png" height="300" width="500" >
-<img src="Screenshots/image7.png" height="300" width="500" >
+<img src="Screenshots/image6.png" height="300" width="600" >
+<img src="Screenshots/image7.png" height="200" width="300" >
