@@ -1,0 +1,491 @@
+lop/evo|Bulbasaur|Grass|001|Bulbasaur|Level 16|002|Ivysaur|Level 32|003|Venusaur
+lop/evo|Charmander|Fire|004|Charmander|Level 16|005|Charmeleon|Level 36|006|Charizard
+lop/evo|Squirtle|Water|007|Squirtle|Level 16|008|Wartortle|Level 36|009|Blastoise
+lop/evo|Caterpie|Bug|010|Caterpie|Level 7|011|Metapod|Level 10|012|Butterfree
+lop/evo|Weedle|Bug|013|Weedle|Level 7|014|Kakuna|Level 10|015|Beedrill
+lop/evo|Pidgey|Normal|016|Pidgey|Level 18|017|Pidgeotto|Level 36|018|Pidgeot
+lop/evo|Rattata|Normal|019|Rattata|Level 20|020|Raticate
+lop/evo|Alolan Rattata|Dark|019|Rattata|Level 20 at night (Alola)|020|Raticate
+lop/evo|Spearow|Normal|021|Spearow|Level 20|022|Fearow
+lop/evo|Ekans|Poison|023|Ekans|Level 22|024|Arbok
+lop/evo|Pikachu|Electric|172|Pichu|Friendship|025|Pikachu|Thunder Stone|026|Raichu
+lop/evo|Sandshrew|Ground|027|Sandshrew|Level 22|028|Sandslash
+lop/evo|Alolan Sandshrew|Ice|027|Sandshrew|Ice Stone (Alola)|028|Sandslash
+lop/evo-Nidoran
+lop/evo|Clefairy|Fairy|173|Cleffa|Friendship|035|Clefairy|Moon Stone|036|Clefable
+lop/evo|Vulpix|Fire|037|Vulpix|Fire Stone|038|Ninetales
+lop/evo|Alolan Vulpix|Ice|037|Vulpix|Ice Stone (Alola)|038|Ninetales
+lop/evo|Jigglypuff|Normal|174|Igglybuff|Friendship|039|Jigglypuff|Moon Stone|040|Wigglytuff
+lop/evo|Zubat|Poison|041|Zubat|Level 22|042|Golbat|Friendship|169|Crobat
+lop/evo-branch-2|Oddish|Grass|043|Oddish|Level 21|044|Gloom|Leaf Stone|045|Vileplume|Sun Stone|182|Bellossom
+lop/evo|Paras|Bug|046|Paras|Level 24|047|Parasect
+lop/evo|Venonat|Bug|048|Venonat|Level 31|049|Venomoth
+lop/evo|Diglett|Ground|050|Diglett|Level 26|051|Dugtrio
+lop/evo|Alolan Diglett|Ground|050A|Diglett|Level 26|051A|Dugtrio
+lop/evo|Meowth|Normal|052|Meowth|Level 28|053|Persian
+lop/evo|Alolan Meowth|Dark|052|Meowth|Friendship/Level 28 (Alola)|053|Persian
+lop/evo|Galarian Meowth|Steel|052|Meowth|Level 28 (Galar)|863|Perrserker
+lop/evo|Psyduck|Water|054|Psyduck|Level 33|055|Golduck
+lop/evo|Mankey|Fighting|056|Mankey|Level 28|057|Primeape
+lop/evo|Growlithe|Fire|058|Growlithe|Fire Stone|059|Arcanine
+lop/evo-branch-2|Poliwag|Water|060|Poliwag|Level 25|061|Poliwhirl|Water Stone|062|Poliwrath|Trade holding King's Rock|186|Politoed
+lop/evo|Abra|Psychic|063|Abra|Level 16|064|Kadabra|Trade|065|Alakazam
+lop/evo|Machop|Fighting|066|Machop|Level 28|067|Machoke|Trade|068|Machamp
+lop/evo|Bellsprout|Grass|069|Bellsprout|Level 21|070|Weepinbell|Leaf Stone|071|Victreebel
+lop/evo|Tentacool|Water|072|Tentacool|Level 30|073|Tentacruel
+lop/evo|Geodude|Rock|074|Geodude|Level 25|075|Graveler|Trade|076|Golem
+lop/evo|Alolan Geodude|Rock|074A|Geodude|Level 25|075A|Graveler|Trade|076A|Golem
+lop/evo|Ponyta|Fire|077|Ponyta|Level 40|078|Rapidash
+lop/evo|Galarian Ponyta|Psychic|077G|Ponyta|Level 40|078G|Rapidash
+lop/evo-branch-1|Slowpoke|Water|079|Slowpoke|Level 37|080|Slowbro|Trade holding King's Rock|199|Slowking
+lop/evo-branch-1|Galarian Slowpoke|Psychic|079|Slowpoke|Galarica Cuff (Galar)|080|Slowbro|Galarica Wreath (Galar)|199|Slowking
+lop/evo|Magnemite|Electric|081|Magnemite|Level 30|082|Magneton|Level up in a special magnetic field Thunder Stone|462|Magnezone
+lop/evo|Farfetch'd|Normal|083|Farfetch'd
+lop/evo|Galarian Farfetch'd|Fighting|083|Farfetch'd|Land 3 critical hits in a single battle (Galar)|865|Sirfetch'd
+lop/evo|Doduo|Normal|084|Doduo|Level 31|085|Dodrio
+lop/evo|Seel|Water|086|Seel|Level 34|087|Dewgong
+lop/evo|Grimer|Poison|088|Grimer|Level 38|089|Muk
+lop/evo|Alolan Grimer|Poison|088A|Grimer|Level 38|089A|Muk
+lop/evo|Shellder|Water|090|Shellder|Water Stone|091|Cloyster
+lop/evo|Gastly|Ghost|092|Gastly|Level 25|093|Haunter|Trade|094|Gengar
+lop/evo|Onix|Rock|095|Onix|Trade holding Metal Coat|208|Steelix
+lop/evo|Drowzee|Psychic|096|Drowzee|Level 26|097|Hypno
+lop/evo|Krabby|Water|098|Krabby|Level 28|099|Kingler
+lop/evo|Voltorb|Electric|100|Voltorb|Level 30|101|Electrode
+lop/evo|Exeggcute|Grass|102|Exeggcute|Leaf Stone|103|Exeggutor
+lop/evo|Cubone|Ground|104|Cubone|Level 28|105|Marowak
+lop/evo-branch-multi|Hitmon|Fighting|236|Tyrogue|Level 20 (Attack > Defense)|106|Hitmonlee|Level 20 (Attack < Defense)|107|Hitmonchan|Level 20 (Attack = Defense)|237|Hitmontop
+lop/evo|Lickitung|Normal|108|Lickitung|Level up knowing Rollout|463|Lickilicky
+lop/evo|Koffing|Poison|109|Koffing|Level 35|110|Weezing
+lop/evo|Rhyhorn|Ground|111|Rhyhorn|Level 42|112|Rhydon|Trade holding Protector|464|Rhyperior
+lop/evo|Chansey|Normal|440|Happiny|Level up holding Oval Stone (day)|113|Chansey|Friendship|242|Blissey
+lop/evo|Tangela|Grass|114|Tangela|Level up knowing Ancient Power|465|Tangrowth
+lop/evo|Kangaskhan|Normal|115|Kangaskhan
+lop/evo|Horsea|Water|116|Horsea|Level 32|117|Seadra|Trade holding Dragon Scale|230|Kingdra
+lop/evo|Goldeen|Water|118|Goldeen|Level 33|119|Seaking
+lop/evo|Staryu|Water|120|Staryu|Water Stone|121|Starmie
+lop/evo|Mr. Mime|Psychic|439|Mime Jr.|Level up knowing Mimic|122|Mr. Mime|Level 42 (Galar)|866|Mr. Rime
+lop/evo|Scyther|Bug|123|Scyther|Trade holding Metal Coat|212|Scizor
+lop/evo|Jynx|Ice|238|Smoochum|Level 30|124|Jynx
+lop/evo|Electabuzz|Electric|239|Elekid|Level 30|125|Electabuzz|Trade holding Electirizer|466|Electivire
+lop/evo|Magmar|Fire|240|Magby|Level 30|126|Magmar|Trade holding Magmarizer|467|Magmortar
+lop/evo|Pinsir|Bug|127|Pinsir
+lop/evo|Tauros|Normal|128|Tauros
+lop/evo|Magikarp|Water|129|Magikarp|Level 20|130|Gyarados
+lop/evo|Lapras|Water|131|Lapras
+lop/evo|Ditto|Normal|132|Ditto
+lop/evo-branch-multi|Eeveelution|Normal|133|Eevee|Water Stone|134|Vaporeon|Thunder Stone|135|Jolteon|Fire Stone|136|Flareon|Friendship (day) Level up with Sun Shard|196|Espeon|Friendship (night) Level up with Moon Shard|197|Umbreon|Level up near Moss Rock Leaf Stone|470|Leafeon|Level up near Ice Rock Ice Stone|471|Glaceon|Level up with two hearts of Affection and know a Fairy-type move|700|Sylveon
+lop/evo|Porygon|Normal|137|Porygon|Trade holding Up-Grade|233|Porygon2|Trade holding Dubious Disc|474|Porygon-Z
+lop/evo|Omanyte|Rock|138|Omanyte|Level 40|139|Omastar
+lop/evo|Kabuto|Rock|140|Kabuto|Level 40|141|Kabutops
+lop/evo|Aerodactyl|Rock|142|Aerodactyl
+lop/evo|Snorlax|Normal|446|Munchlax|Friendship|143|Snorlax
+lop/evo|Articuno|Ice|144|Articuno
+lop/evo|Galarian Articuno|Psychic|144G|Articuno
+lop/evo|Zapdos|Electric|145|Zapdos
+lop/evo|Galarian Zapdos|Fighting|145G|Zapdos
+lop/evo|Moltres|Fire|146|Moltres
+lop/evo|Galarian Moltres|Dark|146G|Moltres
+lop/evo|Dratini|Dragon|147|Dratini|Level 30|148|Dragonair|Level 55|149|Dragonite
+lop/evo|Mewtwo|Psychic|150|Mewtwo
+lop/evo|Mew|Psychic|151|Mew
+
+lop/evo|Chikorita|Grass|152|Chikorita|Level 16|153|Bayleef|Level 32|154|Meganium
+lop/evo|Cyndaquil|Fire|155|Cyndaquil|Level 14|156|Quilava|Level 36|157|Typhlosion
+lop/evo|Totodile|Water|158|Totodile|Level 18|159|Croconaw|Level 30|160|Feraligatr
+lop/evo|Sentret|Normal|161|Sentret|Level 15|162|Furret
+lop/evo|Hoothoot|Normal|163|Hoothoot|Level 20|164|Noctowl
+lop/evo|Ledyba|Bug|165|Ledyba|Level 18|166|Ledian
+lop/evo|Spinarak|Bug|167|Spinarak|Level 22|168|Ariados
+lop/evo|Chinchou|Water|170|Chinchou|Level 27|171|Lanturn
+lop/evo|Togepi|Fairy|175|Togepi|Friendship|176|Togetic|Shiny Stone|468|Togekiss
+lop/evo|Natu|Psychic|177|Natu|Level 25|178|Xatu
+lop/evo|Mareep|Electric|179|Mareep|Level 15|180|Flaaffy|Level 30|181|Ampharos
+lop/evo|Marill|Water|298|Azurill|Friendship|183|Marill|Level 18|184|Azumarill
+lop/evo|Sudowoodo|Rock|438|Bonsly|Level up knowing Mimic|185|Sudowoodo
+lop/evo|Hoppip|Grass|187|Hoppip|Level 18|188|Skiploom|Level 27|189|Jumpluff
+lop/evo|Aipom|Normal|190|Aipom|Level up knowing Double Hit|424|Ambipom
+lop/evo|Sunkern|Grass|191|Sunkern|Sun Stone|192|Sunflora
+lop/evo|Yanma|Bug|193|Yanma|Level up knowing Ancient Power|469|Yanmega
+lop/evo|Wooper|Water|194|Wooper|Level 20|195|Quagsire
+lop/evo|Murkrow|Dark|198|Murkrow|Dusk Stone|430|Honchkrow
+lop/evo|Misdreavus|Ghost|200|Misdreavus|Dusk Stone|429|Mismagius
+lop/evo-Unown
+lop/evo|Wobbuffet|Psychic|360|Wynaut|Level 15|202|Wobbuffet
+lop/evo|Girafarig|Normal|203|Girafarig
+lop/evo|Pineco|Bug|204|Pineco|Level 31|205|Forretress
+lop/evo|Dunsparce|Normal|206|Dunsparce
+lop/evo|Gligar|Ground|207|Gligar|Level up holding Razor Fang at night|472|Gliscor
+lop/evo|Snubbull|Fairy|209|Snubbull|Level 23|210|Granbull
+lop/evo|Qwilfish|Water|211|Qwilfish
+lop/evo|Shuckle|Bug|213|Shuckle
+lop/evo|Heracross|Bug|214|Heracross
+lop/evo|Sneasel|Dark|215|Sneasel|Level up holding Razor Claw at night|461|Weavile
+lop/evo|Teddiursa|Normal|216|Teddiursa|Level 30|217|Ursaring
+lop/evo|Slugma|Fire|218|Slugma|Level 38|219|Magcargo
+lop/evo|Swinub|Ice|220|Swinub|Level 33|221|Piloswine|Level up knowing Ancient Power|473|Mamoswine
+lop/evo|Corsola|Water|222|Corsola
+lop/evo|Galarian Corsola|Ghost|222|Corsola|Level 38 (Galar)|864|Cursola
+lop/evo|Remoraid|Water|223|Remoraid|Level 25|224|Octillery
+lop/evo|Delibird|Ice|225|Delibird
+lop/evo|Mantine|Water|458|Mantyke|Level up with Remoraid in party|226|Mantine
+lop/evo|Skarmory|Steel|227|Skarmory
+lop/evo|Houndour|Dark|228|Houndour|Level 24|229|Houndoom
+lop/evo|Phanpy|Ground|231|Phanpy|Level 25|232|Donphan
+lop/evo|Stantler|Normal|234|Stantler
+lop/evo|Smeargle|Normal|235|Smeargle
+lop/evo|Miltank|Normal|241|Miltank
+lop/evo|Raikou|Electric|243|Raikou
+lop/evo|Entei|Fire|244|Entei
+lop/evo|Suicune|Water|245|Suicune
+lop/evo|Larvitar|Rock|246|Larvitar|Level 30|247|Pupitar|Level 55|248|Tyranitar
+lop/evo|Lugia|Psychic|249|Lugia
+lop/evo|Ho-Oh|Fire|250|Ho-Oh
+lop/evo|Celebi|Psychic|251|Celebi
+
+lop/evo|Treecko|Grass|252|Treecko|Level 16|253|Grovyle|Level 36|254|Sceptile
+lop/evo|Torchic|Fire|255|Torchic|Level 16|256|Combusken|Level 36|257|Blaziken
+lop/evo|Mudkip|Water|258|Mudkip|Level 16|259|Marshtomp|Level 36|260|Swampert
+lop/evo|Poochyena|Dark|261|Poochyena|Level 18|262|Mightyena
+lop/evo|Zigzagoon|Normal|263|Zigzagoon|Level 20|264|Linoone|Level 35 at night (Galar)|862|Obstagoon
+lop/evo-branch-1|Wurmple|Bug|265|Wurmple|Level 7|266|Silcoon|Level 7|268|Cascoon|Level 10|267|Beautifly|Level 10|269|Dustox
+lop/evo|Lotad|Water|270|Lotad|Level 14|271|Lombre|Water Stone|272|Ludicolo
+lop/evo|Seedot|Grass|273|Seedot|Level 14|274|Nuzleaf|Leaf Stone|275|Shiftry
+lop/evo|Taillow|Normal|276|Taillow|Level 22|277|Swellow
+lop/evo|Wingull|Water|278|Wingull|Level 25|279|Pelipper
+lop/evo-branch-2|Ralts|Psychic|280|Ralts|Level 20|281|Kirlia|Level 30|282|Gardevoir|Dawn Stone (male)|475|Gallade
+lop/evo|Surskit|Bug|283|Surskit|Level 22|284|Masquerain
+lop/evo|Shroomish|Grass|285|Shroomish|Level 23|286|Breloom
+lop/evo|Slakoth|Normal|287|Slakoth|Level 18|288|Vigoroth|Level 36|289|Slaking
+lop/evo-branch-1|Nincada|Bug|290|Nincada|Level 20|291|Ninjask|Free space Additional Poké Ball|292|Shedinja
+lop/evo|Whismur|Normal|293|Whismur|Level 20|294|Loudred|Level 40|295|Exploud
+lop/evo|Makuhita|Fighting|296|Makuhita|Level 24|297|Hariyama
+lop/evo|Nosepass|Rock|299|Nosepass|Level up in a special magnetic field|476|Probopass
+lop/evo|Skitty|Normal|300|Skitty|Moon Stone|301|Delcatty
+lop/evo|Sableye|Dark|302|Sableye
+lop/evo|Mawile|Steel|303|Mawile
+lop/evo|Aron|Steel|304|Aron|Level 32|305|Lairon|Level 42|306|Aggron
+lop/evo|Meditite|Fighting|307|Meditite|Level 37|308|Medicham
+lop/evo|Electrike|Electric|309|Electrike|Level 26|310|Manectric
+lop/evo|Plusle|Electric|311|Plusle
+lop/evo|Minun|Electric|312|Minun
+lop/evo-group|Volbeat and Illumise tt|*|Not related directly by evolution, but may breed each other|Bug|313|Volbeat||314|Illumise
+lop/evo|Roselia|Grass|406|Budew|Friendship (day)|315|Roselia|Shiny Stone|407|Roserade
+lop/evo|Gulpin|Poison|316|Gulpin|Level 26|317|Swalot
+lop/evo|Carvanha|Water|318|Carvanha|Level 30|319|Sharpedo
+lop/evo|Wailmer|Water|320|Wailmer|Level 40|321|Wailord
+lop/evo|Numel|Fire|322|Numel|Level 33|323|Camerupt
+lop/evo|Torkoal|Fire|324|Torkoal
+lop/evo|Spoink|Psychic|325|Spoink|Level 32|326|Grumpig
+lop/evo|Spinda|Normal|327|Spinda
+lop/evo|Trapinch|Ground|328|Trapinch|Level 35|329|Vibrava|Level 45|330|Flygon
+lop/evo|Cacnea|Grass|331|Cacnea|Level 32|332|Cacturne
+lop/evo|Swablu|Normal|333|Swablu|Level 35|334|Altaria
+lop/evo|Zangoose|Normal|335|Zangoose
+lop/evo|Seviper|Poison|336|Seviper
+lop/evo|Lunatone|Rock|337|Lunatone
+lop/evo|Solrock|Rock|338|Solrock
+lop/evo|Barboach|Water|339|Barboach|Level 30|340|Whiscash
+lop/evo|Corphish|Water|341|Corphish|Level 30|342|Crawdaunt
+lop/evo|Baltoy|Ground|343|Baltoy|Level 36|344|Claydol
+lop/evo|Lileep|Rock|345|Lileep|Level 40|346|Cradily
+lop/evo|Anorith|Rock|347|Anorith|Level 40|348|Armaldo
+lop/evo|Feebas|Water|349|Feebas|Level up with maximum Beauty Trade holding Prism Scale|350|Milotic
+lop/evo|Castform|Normal|351|Castform
+lop/evo|Kecleon|Normal|352|Kecleon
+lop/evo|Shuppet|Ghost|353|Shuppet|Level 37|354|Banette
+lop/evo|Duskull|Ghost|355|Duskull|Level 37|356|Dusclops|Trade holding Reaper Cloth|477|Dusknoir
+lop/evo|Tropius|Grass|357|Tropius
+lop/evo|Chimecho|Psychic|433|Chingling|Friendship (night)|358|Chimecho
+lop/evo|Absol|Dark|359|Absol
+lop/evo-branch-1|Snorunt|Ice|361|Snorunt|Level 42|362|Glalie|Dawn Stone (female)|478|Froslass
+lop/evo|Spheal|Ice|363|Spheal|Level 32|364|Sealeo|Level 44|365|Walrein
+lop/evo-branch-1|Clamperl|Water|366|Clamperl|Trade holding Deep Sea Tooth|367|Huntail|Trade holding Deep Sea Scale|368|Gorebyss
+lop/evo|Relicanth|Water|369|Relicanth
+lop/evo|Luvdisc|Water|370|Luvdisc
+lop/evo|Bagon|Dragon|371|Bagon|Level 30|372|Shelgon|Level 50|373|Salamence
+lop/evo|Beldum|Steel|374|Beldum|Level 20|375|Metang|Level 45|376|Metagross
+lop/evo|Regirock|Rock|377|Regirock
+lop/evo|Regice|Ice|378|Regice
+lop/evo|Registeel|Steel|379|Registeel
+lop/evo|Latias|Dragon|380|Latias
+lop/evo|Latios|Dragon|381|Latios
+lop/evo|Kyogre|Water|382|Kyogre
+lop/evo|Groudon|Ground|383|Groudon
+lop/evo|Rayquaza|Dragon|384|Rayquaza
+lop/evo|Jirachi|Steel|385|Jirachi
+lop/evo-group|Deoxys|Psychic|386|Deoxys|[[List of Pokémon with form differences#Deoxys|Normal Forme]]|386A|Deoxys|[[List of Pokémon with form differences#Deoxys|Attack Forme]]|386D|Deoxys|[[List of Pokémon with form differences#Deoxys|Defense Forme]]|386S|Deoxys|[[List of Pokémon with form differences#Deoxys|Speed Forme]]|group=Deoxys
+
+lop/evo|Turtwig|Grass|387|Turtwig|Level 18|388|Grotle|Level 32|389|Torterra
+lop/evo|Chimchar|Fire|390|Chimchar|Level 14|391|Monferno|Level 36|392|Infernape
+lop/evo|Piplup|Water|393|Piplup|Level 16|394|Prinplup|Level 36|395|Empoleon
+lop/evo|Starly|Normal|396|Starly|Level 14|397|Staravia|Level 34|398|Staraptor
+lop/evo|Bidoof|Normal|399|Bidoof|Level 15|400|Bibarel
+lop/evo|Kricketot|Bug|401|Kricketot|Level 10|402|Kricketune
+lop/evo|Shinx|Electric|403|Shinx|Level 15|404|Luxio|Level 30|405|Luxray
+lop/evo|Cranidos|Rock|408|Cranidos|Level 30|409|Rampardos
+lop/evo|Shieldon|Rock|410|Shieldon|Level 30|411|Bastiodon
+lop/evo-branch-multi|Burmy|Bug|412|Burmy|Level 20 (female, Plant Cloak)|413|Wormadam|Level 20 (female, Sandy Cloak)|413|Wormadam|Level 20 (female, Trash Cloak)|413|Wormadam|Level 20 (male)|414|Mothim
+lop/evo|Combee|Bug|415|Combee|Level 21 (female)|416|Vespiquen
+lop/evo|Pachirisu|Electric|417|Pachirisu
+lop/evo|Buizel|Water|418|Buizel|Level 26|419|Floatzel
+lop/evo|Cherubi|Grass|420|Cherubi|Level 25|421|Cherrim
+lop/evo-Shellos
+lop/evo|Drifloon|Ghost|425|Drifloon|Level 28|426|Drifblim
+lop/evo|Buneary|Normal|427|Buneary|Friendship|428|Lopunny
+lop/evo|Glameow|Normal|431|Glameow|Level 38|432|Purugly
+lop/evo|Stunky|Poison|434|Stunky|Level 34|435|Skuntank
+lop/evo|Bronzor|Steel|436|Bronzor|Level 33|437|Bronzong
+lop/evo|Chatot|Normal|441|Chatot
+lop/evo|Spiritomb|Ghost|442|Spiritomb
+lop/evo|Gible|Dragon|443|Gible|Level 24|444|Gabite|Level 48|445|Garchomp
+lop/evo|Riolu|Fighting|447|Riolu|Friendship (day)|448|Lucario
+lop/evo|Hippopotas|Ground|449|Hippopotas|Level 34|450|Hippowdon
+lop/evo|Skorupi|Poison|451|Skorupi|Level 40|452|Drapion
+lop/evo|Croagunk|Poison|453|Croagunk|Level 37|454|Toxicroak
+lop/evo|Carnivine|Grass|455|Carnivine
+lop/evo|Finneon|Water|456|Finneon|Level 31|457|Lumineon
+lop/evo|Snover|Grass|459|Snover|Level 40|460|Abomasnow
+lop/evo-group|Rotom|Electric|479|Rotom|Normal Rotom|479O|Rotom|Heat Rotom|479W|Rotom|Wash Rotom|479R|Rotom|Frost Rotom|479F|Rotom|Fan Rotom|479L|Rotom|Mow Rotom|group=Rotom
+lop/evo|Uxie|Psychic|480|Uxie
+lop/evo|Mesprit|Psychic|481|Mesprit
+lop/evo|Azelf|Psychic|482|Azelf
+lop/evo|Dialga|Steel|483|Dialga
+lop/evo|Palkia|Water|484|Palkia
+lop/evo|Heatran|Fire|485|Heatran
+lop/evo|Regigigas|Normal|486|Regigigas
+lop/evo-group|Giratina|Ghost|487|Giratina|[[List of Pokémon with form differences#Giratina|Altered Forme]]|487O|Giratina|[[List of Pokémon with form differences#Giratina|Origin Forme]]|group=Giratina
+lop/evo|Cresselia|Psychic|488|Cresselia
+lop/evo-group|Manaphy tt|*|Not related by evolution, but Manaphy can breed Phione|Water|489|Phione||490|Manaphy|
+lop/evo|Darkrai|Dark|491|Darkrai
+lop/evo-group|Shaymin|Grass|492|Shaymin|[[List of Pokémon with form differences#Shaymin|Land Forme]]|492S|Shaymin|[[List of Pokémon with form differences#Shaymin|Sky Forme]]
+lop/evo|Arceus|Normal|493|Arceus
+
+lop/evo|Victini|Psychic|494|Victini
+lop/evo|Snivy|Grass|495|Snivy|Level 17|496|Servine|Level 36|497|Serperior
+lop/evo|Tepig|Fire|498|Tepig|Level 17|499|Pignite|Level 36|500|Emboar
+lop/evo|Oshawott|Water|501|Oshawott|Level 17|502|Dewott|Level 36|503|Samurott
+lop/evo|Patrat|Normal|504|Patrat|Level 20|505|Watchog
+lop/evo|Lillipup|Normal|506|Lillipup|Level 16|507|Herdier|Level 32|508|Stoutland
+lop/evo|Purrloin|Dark|509|Purrloin|Level 20|510|Liepard
+lop/evo|Pansage|Grass|511|Pansage|Leaf Stone|512|Simisage
+lop/evo|Pansear|Fire|513|Pansear|Fire Stone|514|Simisear
+lop/evo|Panpour|Water|515|Panpour|Water Stone|516|Simipour
+lop/evo|Munna|Psychic|517|Munna|Moon Stone|518|Musharna
+lop/evo|Pidove|Normal|519|Pidove|Level 21|520|Tranquill|Level 32|521|Unfezant
+lop/evo|Blitzle|Electric|522|Blitzle|Level 27|523|Zebstrika
+lop/evo|Roggenrola|Rock|524|Roggenrola|Level 25|525|Boldore|Trade|526|Gigalith
+lop/evo|Woobat|Psychic|527|Woobat|Friendship|528|Swoobat
+lop/evo|Drilbur|Ground|529|Drilbur|Level 31|530|Excadrill
+lop/evo|Audino|Normal|531|Audino
+lop/evo|Timburr|Fighting|532|Timburr|Level 25|533|Gurdurr|Trade|534|Conkeldurr
+lop/evo|Tympole|Water|535|Tympole|Level 25|536|Palpitoad|Level 36|537|Seismitoad
+lop/evo|Throh|Fighting|538|Throh
+lop/evo|Sawk|Fighting|539|Sawk
+lop/evo|Sewaddle|Bug|540|Sewaddle|Level 20|541|Swadloon|Friendship|542|Leavanny
+lop/evo|Venipede|Bug|543|Venipede|Level 22|544|Whirlipede|Level 30|545|Scolipede
+lop/evo|Cottonee|Grass|546|Cottonee|Sun Stone|547|Whimsicott
+lop/evo|Petilil|Grass|548|Petilil|Sun Stone|549|Lilligant
+lop/evo-group|Basculin|Water|550|Basculin|[[List of Pokémon with form differences#Basculin|Red Stripe]]|550B|Basculin|[[List of Pokémon with form differences#Basculin|Blue Stripe]]
+lop/evo|Sandile|Ground|551|Sandile|Level 29|552|Krokorok|Level 40|553|Krookodile
+lop/evo|Darumaka|Fire|554|Darumaka|Level 35|555|Darmanitan
+lop/evo|Galarian Darumaka|Ice|554|Darumaka|Ice Stone (Galar)|555|Darmanitan
+lop/evo|Maractus|Grass|556|Maractus
+lop/evo|Dwebble|Bug|557|Dwebble|Level 34|558|Crustle
+lop/evo|Scraggy|Dark|559|Scraggy|Level 39|560|Scrafty
+lop/evo|Sigilyph|Psychic|561|Sigilyph
+lop/evo|Yamask|Ghost|562|Yamask|Level 34|563|Cofagrigus
+lop/evo|Galarian Yamask|Ground|562|Yamask|Under the stone bridge in Dusty Bowl after Yamask takes at least 49 HP in damage in one attack without fainting (Galar)|867|Runerigus
+lop/evo|Tirtouga|Water|564|Tirtouga|Level 37|565|Carracosta
+lop/evo|Archen|Rock|566|Archen|Level 37|567|Archeops
+lop/evo|Trubbish|Poison|568|Trubbish|Level 36|569|Garbodor
+lop/evo|Zorua|Dark|570|Zorua|Level 30|571|Zoroark
+lop/evo|Minccino|Normal|572|Minccino|Shiny Stone|573|Cinccino
+lop/evo|Gothita|Psychic|574|Gothita|Level 32|575|Gothorita|Level 41|576|Gothitelle
+lop/evo|Solosis|Psychic|577|Solosis|Level 32|578|Duosion|Level 41|579|Reuniclus
+lop/evo|Ducklett|Water|580|Ducklett|Level 35|581|Swanna
+lop/evo|Vanillite|Ice|582|Vanillite|Level 35|583|Vanillish|Level 47|584|Vanilluxe
+lop/evo-Deerling
+lop/evo|Emolga|Electric|587|Emolga
+lop/evo|Karrablast|Bug|588|Karrablast|Trade for Shelmet|589|Escavalier
+lop/evo|Foongus|Grass|590|Foongus|Level 39|591|Amoonguss
+lop/evo|Frillish|Water|592|Frillish|Level 40|593|Jellicent
+lop/evo|Alomomola|Water|594|Alomomola
+lop/evo|Joltik|Bug|595|Joltik|Level 36|596|Galvantula
+lop/evo|Ferroseed|Grass|597|Ferroseed|Level 40|598|Ferrothorn
+lop/evo|Klink|Steel|599|Klink|Level 38|600|Klang|Level 49|601|Klinklang
+lop/evo|Tynamo|Electric|602|Tynamo|Level 39|603|Eelektrik|Thunder Stone|604|Eelektross
+lop/evo|Elgyem|Psychic|605|Elgyem|Level 42|606|Beheeyem
+lop/evo|Litwick|Ghost|607|Litwick|Level 41|608|Lampent|Dusk Stone|609|Chandelure
+lop/evo|Axew|Dragon|610|Axew|Level 38|611|Fraxure|Level 48|612|Haxorus
+lop/evo|Cubchoo|Ice|613|Cubchoo|Level 37|614|Beartic
+lop/evo|Cryogonal|Ice|615|Cryogonal
+lop/evo|Shelmet|Bug|616|Shelmet|Trade for Karrablast|617|Accelgor
+lop/evo|Stunfisk|Ground|618|Stunfisk
+lop/evo|Galarian Stunfisk|Ground|618G|Stunfisk
+lop/evo|Mienfoo|Fighting|619|Mienfoo|Level 50|620|Mienshao
+lop/evo|Druddigon|Dragon|621|Druddigon
+lop/evo|Golett|Ground|622|Golett|Level 43|623|Golurk
+lop/evo|Pawniard|Dark|624|Pawniard|Level 52|625|Bisharp
+lop/evo|Bouffalant|Normal|626|Bouffalant
+lop/evo|Rufflet|Normal|627|Rufflet|Level 54|628|Braviary
+lop/evo|Vullaby|Dark|629|Vullaby|Level 54|630|Mandibuzz
+lop/evo|Heatmor|Fire|631|Heatmor
+lop/evo|Durant|Bug|632|Durant
+lop/evo|Deino|Dragon|633|Deino|Level 50|634|Zweilous|Level 64|635|Hydreigon
+lop/evo|Larvesta|Bug|636|Larvesta|Level 59|637|Volcarona
+lop/evo|Cobalion|Steel|638|Cobalion
+lop/evo|Terrakion|Rock|639|Terrakion
+lop/evo|Virizion|Grass|640|Virizion
+lop/evo-group|Tornadus|Flying|641|Tornadus|[[List of Pokémon with form differences#Tornadus|Incarnate Forme]]|641T|Tornadus|[[List of Pokémon with form differences#Tornadus|Therian Forme]]
+lop/evo-group|Thundurus|Electric|642|Thundurus|[[List of Pokémon with form differences#Thundurus|Incarnate Forme]]|642T|Thundurus|[[List of Pokémon with form differences#Thundurus|Therian Forme]]
+lop/evo|Reshiram|Dragon|643|Reshiram
+lop/evo|Zekrom|Dragon|644|Zekrom
+lop/evo-group|Landorus|Ground|645|Landorus|[[List of Pokémon with form differences#Landorus|Incarnate Forme]]|645T|Landorus|[[List of Pokémon with form differences#Landorus|Therian Forme]]
+lop/evo-group|Kyurem|Dragon|646|Kyurem||646B|Kyurem|[[List of Pokémon with form differences#Kyurem|Black Kyurem]]|646W|Kyurem|[[List of Pokémon with form differences#Kyurem|White Kyurem]]
+lop/evo-group|Keldeo|Water|647|Keldeo|[[List of Pokémon with form differences#Keldeo|Ordinary Form]]|647R|Keldeo|[[List of Pokémon with form differences#Meloetta|Resolute Form]]
+lop/evo-group|Meloetta|Normal|648|Meloetta|[[List of Pokémon with form differences#Meloetta|Aria Forme]]|648P|Meloetta|[[List of Pokémon with form differences#Meloetta|Pirouette Forme]]
+lop/evo|Genesect|Bug|649|Genesect
+
+lop/evo|Chespin|Grass|650|Chespin|Level 16|651|Quilladin|Level 36|652|Chesnaught
+lop/evo|Fennekin|Fire|653|Fennekin|Level 16|654|Braixen|Level 36|655|Delphox
+lop/evo|Froakie|Water|656|Froakie|Level 16|657|Frogadier|Level 36|658|Greninja
+lop/evo-group| acolor|Battle Bond|000 Greninja|Water|658|Greninja| a|Battle Bond Greninja|658A|Greninja|[[Bond Phenomenon|Ash-Greninja]]
+lop/evo|Bunnelby|Normal|659|Bunnelby|Level 20|660|Diggersby
+lop/evo|Fletchling|Normal|661|Fletchling|Level 17|662|Fletchinder|Level 35|663|Talonflame
+lop/evo|Scatterbug|Bug|664|Scatterbug|Level 9|665|Spewpa|Level 12|666|Vivillon
+lop/evo|Litleo|Fire|667|Litleo|Level 35|668|Pyroar
+lop/evo|Flabébé|Fairy|669|Flabébé|Level 19|670|Floette|Shiny Stone|671|Florges
+lop/evo|Skiddo|Grass|672|Skiddo|Level 32|673|Gogoat
+lop/evo|Pancham|Fighting|674|Pancham|Level 32 with Dark-type in party|675|Pangoro
+lop/evo|Furfrou|Normal|676|Furfrou
+lop/evo|Espurr|Psychic|677|Espurr|Level 25|678|Meowstic
+lop/evo|Honedge|Steel|679|Honedge|Level 35|680|Doublade|Dusk Stone|681|Aegislash
+lop/evo|Spritzee|Fairy|682|Spritzee|Trade holding Sachet|683|Aromatisse
+lop/evo|Swirlix|Fairy|684|Swirlix|Trade holding Whipped Dream|685|Slurpuff
+lop/evo|Inkay|Dark|686|Inkay|Level 30 with 3DS held upside down|687|Malamar
+lop/evo|Binacle|Rock|688|Binacle|Level 39|689|Barbaracle
+lop/evo|Skrelp|Poison|690|Skrelp|Level 48|691|Dragalge
+lop/evo|Clauncher|Water|692|Clauncher|Level 37|693|Clawitzer
+lop/evo|Helioptile|Electric|694|Helioptile|Sun Stone|695|Heliolisk
+lop/evo|Tyrunt|Rock|696|Tyrunt|Level 39 (day)|697|Tyrantrum
+lop/evo|Amaura|Rock|698|Amaura|Level 39 (night)|699|Aurorus
+lop/evo|Hawlucha|Fighting|701|Hawlucha
+lop/evo|Dedenne|Electric|702|Dedenne
+lop/evo|Carbink|Rock|703|Carbink
+lop/evo|Goomy|Dragon|704|Goomy|Level 40|705|Sliggoo|Level 50 in rain or fog|706|Goodra
+lop/evo|Klefki|Steel|707|Klefki
+lop/evo|Phantump|Ghost|708|Phantump|Trade|709|Trevenant
+lop/evo|Pumpkaboo|Ghost|710|Pumpkaboo|Trade|711|Gourgeist
+lop/evo|Bergmite|Ice|712|Bergmite|Level 37|713|Avalugg
+lop/evo|Noibat|Flying|714|Noibat|Level 48|715|Noivern
+lop/evo-group|Xerneas|Fairy|716|Xerneas|[[List of Pokémon with form differences#Zygarde|Active Mode]]|716N|Xerneas|[[List of Pokémon with form differences#Zygarde|Neutral Mode]]
+lop/evo|Yveltal|Dark|717|Yveltal
+lop/evo-group|Zygarde|Dragon|718|Zygarde|[[List of Pokémon with form differences#Zygarde|50% Forme]]|718T|Zygarde|[[List of Pokémon with form differences#Zygarde|10% Forme]]|718C|Zygarde|[[List of Pokémon with form differences#Zygarde|Complete Forme]]
+lop/evo|Diancie|Rock|719|Diancie
+lop/evo-group|Hoopa|Psychic|720|Hoopa|[[List of Pokémon with form differences#Hoopa|Hoopa Confined]]|720U|Hoopa|[[List of Pokémon with form differences#Hoopa|Hoopa Unbound]]
+lop/evo|Volcanion|Fire|721|Volcanion
+
+lop/evo|Rowlet|Grass|722|Rowlet|Level 17|723|Dartrix|Level 34|724|Decidueye
+lop/evo|Litten|Fire|725|Litten|Level 17|726|Torracat|Level 34|727|Incineroar
+lop/evo|Popplio|Water|728|Popplio|Level 17|729|Brionne|Level 34|730|Primarina
+lop/evo|Pikipek|Normal|731|Pikipek|Level 14|732|Trumbeak|Level 28|733|Toucannon
+lop/evo|Yungoos|Normal|734|Yungoos|Level 20 (day)|735|Gumshoos
+lop/evo|Grubbin|Bug|736|Grubbin|Level 20|737|Charjabug|Level up in a special magnetic field Thunder Stone|738|Vikavolt
+lop/evo|Crabrawler|Fighting|739|Crabrawler|Level up at Mount Lanakila|740|Crabominable
+lop/evo-group|Oricorio| #switch:  #expr: #time: U mod 4|0=Fire|1=Electric|2=Psychic|3=Ghost|741|Oricorio|Baile Style|741Po|Oricorio|Pom-Pom Style|741Pa|Oricorio|Pa'u Style|741Se|Oricorio|Sensu Style|group=Oricorio
+lop/evo|Cutiefly|Bug|742|Cutiefly|Level 25|743|Ribombee
+lop/evo-branch-1|Rockruff|Rock|744|Rockruff|Level 25 (Pokémon Sun and Ultra Sun; day)|745|Lycanroc|Level 25 (Pokémon Moon and Ultra Moon; night)|745Mn|Lycanroc
+lop/evo| acolor|Own Tempo|000 Rockruff|Rock|744|Rockruff|Level 25 (between 5:00 and 5:59 PM)|745D|Lycanroc
+lop/evo-group|Wishiwashi|Water|746|Wishiwashi|[[List of Pokémon with form differences#Wishiwashi|Solo Form]]|746Sc|Wishiwashi|[[List of Pokémon with form differences#Wishiwashi|Schooling Form]]
+lop/evo|Mareanie|Poison|747|Mareanie|Level 38|748|Toxapex
+lop/evo|Mudbray|Ground|749|Mudbray|Level 30|750|Mudsdale
+lop/evo|Dewpider|Water|751|Dewpider|Level 22|752|Araquanid
+lop/evo|Fomantis|Grass|753|Fomantis|Level 34 (day)|754|Lurantis
+lop/evo|Morelull|Grass|755|Morelull|Level 24|756|Shiinotic
+lop/evo|Salandit|Poison|757|Salandit|Level 33 (female)|758|Salazzle
+lop/evo|Stufful|Normal|759|Stufful|Level 27|760|Bewear
+lop/evo|Bounsweet|Grass|761|Bounsweet|Level 18|762|Steenee|Level up knowing Stomp|763|Tsareena
+lop/evo|Comfey|Fairy|764|Comfey
+lop/evo|Oranguru|Normal|765|Oranguru
+lop/evo|Passimian|Fighting|766|Passimian
+lop/evo|Wimpod|Bug|767|Wimpod|Level 30|768|Golisopod
+lop/evo|Sandygast|Ghost|769|Sandygast|Level 42|770|Palossand
+lop/evo|Pyukumuku|Water|771|Pyukumuku
+lop/evo|Type: Null|Normal|772|Type: Null|Friendship|773|Silvally
+lop/evo-group|Minior|Rock|774|Minior|[[List of Pokémon with form differences#Minior|Meteor Form]]|774R|Minior|[[List of Pokémon with form differences#Minior|Core]]
+lop/evo|Komala|Normal|775|Komala
+lop/evo|Turtonator|Fire|776|Turtonator
+lop/evo|Togedemaru|Electric|777|Togedemaru
+lop/evo-group|Mimikyu|Ghost|778|Mimikyu|[[List of Pokémon with form differences#Mimikyu|Disguised Form]]|778|Mimikyu|[[List of Pokémon with form differences#Mimikyu|Busted Form]]
+lop/evo|Bruxish|Water|779|Bruxish
+lop/evo|Drampa|Normal|780|Drampa
+lop/evo|Dhelmise|Ghost|781|Dhelmise
+lop/evo|Jangmo-o|Dragon|782|Jangmo-o|Level 35|783|Hakamo-o|Level 45|784|Kommo-o
+lop/evo|Tapu Koko|Electric|785|Tapu Koko
+lop/evo|Tapu Lele|Psychic|786|Tapu Lele
+lop/evo|Tapu Bulu|Grass|787|Tapu Bulu
+lop/evo|Tapu Fini|Water|788|Tapu Fini
+lop/evo-branch-2|Cosmog|Psychic|789|Cosmog|Level 43|790|Cosmoem|Level 53 (Pokémon Sun, Ultra Sun, and Sword)|791|Solgaleo|Level 53 (Pokémon Moon, Ultra Moon, and Shield)|792|Lunala
+lop/evo|Nihilego|Rock|793|Nihilego
+lop/evo|Buzzwole|Bug|794|Buzzwole
+lop/evo|Pheromosa|Bug|795|Pheromosa
+lop/evo|Xurkitree|Electric|796|Xurkitree
+lop/evo|Celesteela|Steel|797|Celesteela
+lop/evo|Kartana|Grass|798|Kartana
+lop/evo|Guzzlord|Dark|799|Guzzlord
+lop/evo-group|Necrozma|Psychic|800|Necrozma||800DM|Necrozma|[[List of Pokémon with form differences#Magearna|Dusk Mane Necrozma]]|800DW|Necrozma|[[List of Pokémon with form differences#Magearna|Dawn Wings Necrozma]]|800U|Necrozma|[[Ultra Burst|Ultra Necrozma]]
+lop/evo-group|Magearna|Steel|801|Magearna||801O|Magearna|[[List of Pokémon with form differences#Magearna|Original Color Magearna]]
+lop/evo|Marshadow|Fighting|802|Marshadow
+lop/evo|Poipole|Poison|803|Poipole|Level up knowing Dragon Pulse|804|Naganadel
+lop/evo|Stakataka|Rock|805|Stakataka
+lop/evo|Blacephalon|Fire|806|Blacephalon
+lop/evo|Zeraora|Electric|807|Zeraora
+
+lop/evo|Grookey|Grass|810|Grookey|Level 16|811|Thwackey|Level 35|812|Rillaboom
+lop/evo|Scorbunny|Fire|813|Scorbunny|Level 16|814|Raboot|Level 35|815|Cinderace
+lop/evo|Sobble|Water|816|Sobble|Level 16|817|Drizzile|Level 35|818|Inteleon
+lop/evo|Skwovet|Normal|819|Skwovet|Level 24|820|Greedent
+lop/evo|Rookidee|Flying|821|Rookidee|Level 18|822|Corvisquire|Level 38|823|Corviknight
+lop/evo|Blipbug|Bug|824|Blipbug|Level 10|825|Dottler|Level 30|826|Orbeetle
+lop/evo|Nickit|Dark|827|Nickit|Level 18|828|Thievul
+lop/evo|Gossifleur|Grass|829|Gossifleur|Level 20|830|Eldegoss
+lop/evo|Wooloo|Normal|831|Wooloo|Level 24|832|Dubwool
+lop/evo|Chewtle|Water|833|Chewtle|Level 22|834|Drednaw
+lop/evo|Yamper|Electric|835|Yamper|Level 25|836|Boltund
+lop/evo|Rolycoly|Rock|837|Rolycoly|Level 18|838|Carkol|Level 34|839|Coalossal
+lop/evo-branch-1|Applin|Grass|840|Applin|Tart Apple|841|Flapple|Sweet Apple|842|Appletun
+lop/evo|Silicobra|Ground|843|Silicobra|Level 36|844|Sandaconda
+lop/evo|Cramorant|Flying|845|Cramorant
+lop/evo|Arrokuda|Water|846|Arrokuda|Level 26|847|Barraskewda
+lop/evo|Toxel|Electric|848|Toxel|Level 30|849|Toxtricity
+lop/evo|Sizzlipede|Fire|850|Sizzlipede|Level 28|851|Centiskorch
+lop/evo|Clobbopus|Fighting|852|Clobbopus|Level up knowing  m|Taunt|853|Grapploct
+lop/evo|Sinistea|Ghost|854|Sinistea|Chipped Pot or Cracked Pot|855|Polteageist
+lop/evo|Hatenna|Psychic|856|Hatenna|Level 32|857|Hattrem|Level 42|858|Hatterene
+lop/evo|Impidimp|Dark|859|Impidimp|Level 32|860|Morgrem|Level 42|861|Grimmsnarl
+lop/evo|Milcery|Fairy|868|Milcery|Sweet when its Trainer spins and strikes a pose|869|Alcremie
+lop/evo|Falinks|Fighting|870|Falinks
+lop/evo|Pincurchin|Electric|871|Pincurchin
+lop/evo|Snom|Ice|872|Snom|Friendship (night)|873|Frosmoth
+lop/evo|Stonjourner|Rock|874|Stonjourner
+lop/evo|Eiscue|Ice|875|Eiscue
+lop/evo|Indeedee|Psychic|876|Indeedee
+lop/evo-group|Morpeko|Electric|877|Morpeko|[[List of Pokémon with form differences#Morpeko|Full Belly Mode]]|877H|Morpeko|[[List of Pokémon with form differences#Morpeko|Hangry Mode]]
+lop/evo|Cufant|Steel|878|Cufant|Level 34|879|Copperajah
+lop/evo|Dracozolt|Electric|880|Dracozolt
+lop/evo|Arctozolt|Electric|881|Arctozolt
+lop/evo|Dracovish|Water|882|Dracovish
+lop/evo|Arctovish|Water|883|Arctovish
+lop/evo|Duraludon|Steel|884|Duraludon
+lop/evo|Dreepy|Dragon|885|Dreepy|Level 50|886|Drakloak|Level 60|887|Dragapult
+lop/evo-group|Zacian|Fairy|888|Zacian|[[List of Pokémon with form differences#Zacian|Hero of Many Battles]]|888C|Zacian|[[List of Pokémon with form differences#Zacian|Crowned Sword]]
+lop/evo-group|Zamazenta|Fighting|889|Zamazenta|[[List of Pokémon with form differences#Zamazenta|Hero of Many Battles]]|889C|Zamazenta|[[List of Pokémon with form differences#Zamazenta|Crowned Shield]]
+lop/evo|Eternatus|Poison|890|Eternatus
+lop/evo-branch-1|Kubfu|Fighting|891|Kubfu|Train in The Tower of Darkness (Single Strike Style)|892|Urshifu|Train in The Tower of Waters (Rapid Strike Style)|892|Urshifu
+lop/evo-group|Zarude|Dark|893|Zarude|[[List of Pokémon with form differences#Zarude|Zarude]]|893D|Zarude|[[List of Pokémon with form differences#Zarude|Dada Zarude]]
+lop/evo|Regieleki|Electric|894|Regieleki
+lop/evo|Regidrago|Dragon|895|Regidrago
+lop/evo|Glastrier|Ice|896|Glastrier
+lop/evo|Spectrier|Ghost|897|Spectrier
+lop/evo-group|Calyrex|Psychic|898|Calyrex||898I|Calyrex|[[List of Pokémon with form differences#Calyrex|Ice Rider Calyrex]]|898S|Calyrex|[[List of Pokémon with form differences#Calyrex|Shadow Rider Calyrex]]
