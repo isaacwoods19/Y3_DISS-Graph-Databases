@@ -11,10 +11,10 @@ The application also allowed the user to learn the graph database querying langu
 
 Overall this project took a lot of time and effort, but taught me a lot about databases - both graph and conventional. It took all of the academic year from October 2020 to June 2021. I recieved a 1st overall for the project.
 
-![alt text](https://github.com/isaacwoods19/Y3_DISS-Graph-Databases/blob/main/image1.png?raw=true)
-![alt text](https://github.com/isaacwoods19/Y3_DISS-Graph-Databases/blob/main/image2.png?raw=true)
-![alt text](https://github.com/isaacwoods19/Y3_DISS-Graph-Databases/blob/main/image3.png?raw=true)
-![alt text](https://github.com/isaacwoods19/Y3_DISS-Graph-Databases/blob/main/image4.png?raw=true)
-![alt text](https://github.com/isaacwoods19/Y3_DISS-Graph-Databases/blob/main/image5.png?raw=true)
-![alt text](https://github.com/isaacwoods19/Y3_DISS-Graph-Databases/blob/main/image6.png?raw=true)
-![alt text](https://github.com/isaacwoods19/Y3_DISS-Graph-Databases/blob/main/image7.png?raw=true)
+![Screenshot](Screenshots/image1.png)
+![Screenshot](Screenshots/image2.png)
+![Screenshot](Screenshots/image3.png)
+![Screenshot](Screenshots/image4.png)
+![Screenshot](Screenshots/image5.png)
+![Screenshot](Screenshots/image6.png)
+![Screenshot](Screenshots/image7.png)
