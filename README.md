@@ -10,3 +10,4 @@ The application I created interacted with the user like it is a 'Pokedex' - allo
 The application also allowed the user to learn the graph database querying language called Cypher - which is similar to SQL but more powerful when dealing with data relationships. This section would suggest commands and show the raw output from the database, and let the user know when they've made a syntax mistake.
 
 Overall this project took a lot of time and effort, but taught me a lot about databases - both graph and conventional. It took all of the academic year from October 2020 to June 2021. I recieved a 1st overall for the project.
+
