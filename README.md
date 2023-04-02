@@ -13,7 +13,7 @@ Overall this project took a lot of time and effort, but taught me a lot about da
 
 <div style="width:60px ; height:60px">
 ![Screenshot](Screenshots/image1.png)
-<div>
+</div>
 ![Screenshot](Screenshots/image2.png)
 ![Screenshot](Screenshots/image3.png)
 ![Screenshot](Screenshots/image4.png)
